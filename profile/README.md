@@ -7,10 +7,10 @@ Cipherion Market Research is a private research and development organization foc
 
 Cipherion operates through a vertically integrated model, encompassing research, development, and operational execution:
 
-**Research:** Our research team, comprised of experts in quantitative finance, machine learning, and blockchain technology, continuously analyzes market data, develops predictive models, and identifies emerging trends in the DeFi landscape. Key areas of focus include:
+**Research:** Our research team, comprised of experts in capital markets management and finance, as well as machine learning and blockchain technology, continuously analyzes market data, develops predictive models, and identifies emerging trends in the DeFi landscape. Key areas of focus include:
 
 * **MEV (Maximal Extractable Value) Analysis and Mitigation:** We develop strategies to identify and minimize negative externalities associated with MEV, ensuring fair and efficient market operations.
-* **On-Chain Data Analytics:** We leverage advanced statistical methods and machine learning to extract actionable insights from on-chain data, enabling us to predict market movements and identify lucrative trading opportunities.
+* **On-Chain Data Analytics:** We apply advanced statistical and quantitative methods along with machine learning to extract actionable insights from on-chain data, enabling enabling our systems to generate market volatility movements and identify positive trading opportunities.
 * **Decentralized Economic Modeling:** We conduct rigorous research on the dynamics of decentralized economies, exploring novel mechanisms for governance, token distribution, and community participation.
 
 
@@ -26,6 +26,7 @@ We maintain a data-driven approach to market research, processing over 30 teraby
 
 - Price action analysis
 - Market microstructure
+- Economic Behavioral Shifts
 - On-chain analytics
 - Cross-chain correlations
 - Network effect patterns
@@ -37,7 +38,7 @@ Our flagship technologies include:
 - **Hypatia Neural Network**: Our core analytical framework processing millions of market data points
 - **Abacus**: Advanced market analysis system generating predictive trading models
 - **Market Centurions**: Autonomous trading bots executing high-frequency strategies
-- **CipheX**: A decentralized token ecosystem sharing trading revenues with holders
+- **CipheX**: A decentralized Community sharing market returns and future revenues with token holders.
 
 ## Organization
 
@@ -47,13 +48,14 @@ Our team includes specialists in:
 - Machine Learning
 - Blockchain Development
 - Market Microstructure
-- Risk Management
+- Asset & Portfolio Strategies
+- Risk & Hedge Management
 
 ## Join Us
 
 We are a rapidly growing team of passionate individuals driven by a shared vision of a decentralized future. 
 
-- **Developers:** Contribute to the development of our core technologies and help build the future of DeFi.
+- **Developers:** Contribute to the development of our core DeFi technologies.
 - **Researchers:**  Join our research team and explore the frontiers of decentralized finance.
 - **Fellowship:** Apply for our research grant program to collaborate with our team.
 
