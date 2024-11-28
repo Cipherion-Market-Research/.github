@@ -59,10 +59,10 @@ We are a rapidly growing team of passionate individuals driven by a shared visio
 
 ## Resources
 
-🌐 Website: [cipherion.io](https://cipherion.io)  
-📊 Analytics: [analytics.cipherion.co](https://ciphex.io)  
-📚 Documentation: [docs.cipherion.io](https://docs.cipherion.io)  
-📧 Contact: research@cipherion.io
+🌐 Website: [cipherion.co](https://cipherion.co)  
+📊 Analytics: [analytics.cipherion.co](https://cipherion.co)  
+📚 Documentation: [docs.cipherion.co](https://docs.cipherion.co)  
+📧 Contact: research@cipherion.co
 
 ## Important Notice
 
