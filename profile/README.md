@@ -1,5 +1,3 @@
-README.md
-
 # Cipherion Market Research Group
 
 Cipherion Market Research is a private research and development organization focused on advancing quantitative trading strategies and decentralized financial systems. We specialize in developing autonomous trading systems and market analytics tools that identify and capitalize on inefficiencies in global markets.
