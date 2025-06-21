@@ -1,7 +1,7 @@
 # Cipherion Market Research Group
-
+<div align="justify"> 
 Cipherion Market Research (“CMR”) is a private research and development division of Cipherion Capital SA (“Cipherion”). CMR focuses on the development of AI-driven software solutions, specializing in autonomous market execution and digital asset management systems. Its research centers on data-driven macro and microeconomic analysis, dynamic forecasting, and integrated risk architecture, powering forward-looking opportunity mapping and strategic capital reallocation between legacy and digital financial systems.
-
+</div>
 
 ## Current Research Initiatives 
 
