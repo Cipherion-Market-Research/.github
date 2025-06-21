@@ -27,43 +27,47 @@ Cipherion Market Research (“CMR”) is a private research and development divi
 **2016–2019, Hypatia Data Intelligence**: Hypatia is a sophisticated data analytics and modeling system built to detect and interpret complex inefficient market patterns, enhancing the predictive targeting of the Abacus EMS arbitrage engine. As the predecessor to the CPX Framework, now the AI core of Alpha CPX, it established the foundation for signal extraction, anomaly detection, and forecasting in volatile markets.
 </div>
 
-## Research Approach
+## Intellectual Properties 
+<div align="justify"> 
 
-We maintain a data-driven approach to market research, processing over 30 terabytes of market data daily across:
+The name CipheX is derived from “Cipher,” representing encrypted intelligence, while the “X” signifies exponential capability. CPX, is short for Capital Predictive eXecution, the proprietary algorithmic framework powering all market strategies within the Alpha Centurion Network (Alpha CPX).
 
-- Price action analysis
-- Market microstructure
-- Economic Behavioral Shifts
-- On-chain analytics
-- Cross-chain correlations
-- Network effect patterns
+**2024 CPX Framework.**: The CPX Framework is Alpha CPX’s proprietary AI core, enabling real-time signal analysis, predictive modeling, and autonomous trade execution. It identifies opportunities, manages risk, and adapts to market conditions, delivering institutional-grade performance while preserving noncustodial user control across traditional and digital asset markets.
 
-## Organization
+**2023 Adaptive Target Identification & Market Intelligence.**: This framework combines Concentric Economics, Behavioral Analytics, and MEV research to detect high-probability trade opportunities. It dynamically analyzes capital flows, participant behavior, and value-extractive risks to generate precise, real-time trading signals across fragmented and volatile digital asset and traditional markets.
 
-Our team includes specialists in:
+**2021 Natural Capital & Modern Commodities.**: Explores fractal volatility opportunities arising from flawed environmental valuation and pricing models as traditional markets integrate voluntary carbon credits and ESG-linked supply chains into futures and commodities. These inefficiencies create dislocations exploitable through predictive modeling across evolving asset classes.
 
-- Quantitative Analysis
-- Machine Learning
-- Blockchain Development
-- Market Microstructure
-- Asset & Portfolio Strategies
-- Risk & Hedge Management
+**2018 Concentric Economics & Emerging Hyper Volatilities.**: Concentric Economics analyzes how capital rotates between asset classes, revealing patterns of emerging hyper volatility as traditional markets respond to the growth of digital assets. This approach uncovers structural imbalances, liquidity dislocations, and behavioral shifts driving amplified volatility across interconnected financial systems.
+</div>
 
-## Join Us
+## Organization & Mission
+<div align="justify"> 
 
-We are a rapidly growing team of passionate individuals driven by a shared vision of a decentralized future. 
+Cipherion Market Research (“CMR”) is a private research and development division of Cipherion Capital SA (“Cipherion”), a corporation registered in the republic of Panama with affiliate offices in Europe, Canada and the United States. We are a rapidly growing professional team of international contributors driven by a shared vision of a decentralized financial future centered on open, distributed access to financial opportunity, permissionless participation across global liquidity markets, and free access to sophisticated autonomous tools. Our mission is to empower wealth creation for all, regardless of background or experience, independent of traditional financial constraints.
+</div>
 
-- **Developers:** Contribute to the development of our core DeFi technologies.
-- **Researchers:**  Join our research team and explore the frontiers of decentralized finance.
-- **Fellowship:** Apply for our research grant program to collaborate with our team.
+## Recruitment
+<div align="justify"> 
+  
+Prospective applicants are invited to submit their materials in confidence via the contact details provided on this page. Please note that Cipherion does not engage with or respond to inquiries from recruitment agencies. Certain jurisdictional limitations may apply.
+</div>
 
-## Resources
+We consider individuals with demonstrated expertise in the following domains:
+
+- **Quantitative Analysis** 
+- **Artificial Intelligence & Machine Learning**  
+- **Blockchain Development**
+- **Market Microstructure**
+- **Risk Management** 
+
+## Additional Information
 
 🌐 Website: [cipherion.co](https://cipherion.co)  
-📊 Analytics: [analytics.cipherion.co](https://cipherion.co)  
-📚 Documentation: [docs.cipherion.co](https://cipherion.co)  
 📧 Contact: research@cipherion.co
 
 ## Important Notice
-
-Cipherion Market Research operates as a private research organization. Our work involves complex mathematical models and autonomous systems in highly volatile markets. Past performance does not guarantee future results.
+<div align="justify"> 
+  
+The information provided herein is for information purposes only and does not constitute, nor should it be construed as, a recommendation, solicitation, or offer to engage in any investment strategy or transaction involving CMR, Cipherion Capital SA, CipheX, or the Alpha Centurion Network (collectively, “Cipherion”). Any references to third-party entities are drawn exclusively from publicly available sources for citation purposes only. This is not a comprehensive or definitive representation of Cipherion. Access to additional information may be restricted due to proprietary or confidential material protected under applicable law and is subject to prior authorization, nondisclosure agreements, and fiduciary obligations. Any statements or representations outside this document, or not originating from Cipherion, are unauthorized and expressly disclaimed. Cipherion reserves the right to modify, restrict, or revoke access to this material, in whole or in part, at any time without prior notice.
+</div>
