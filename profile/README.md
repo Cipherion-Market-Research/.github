@@ -4,13 +4,13 @@ Cipherion Market Research (“CMR”) is a private research and development divi
 </div>
 
 ## Current Research Initiatives 
-
+<div align="justify"> 
 * **MEV (Maximal Extractable Value) integrated analysis and mitigation:** CMR develops strategies to identify and minimize negative externalities associated with MEV, ensuring fair and efficient market operations through the implementation of protocol-level defenses to safeguard market integrity.
   
 * **Behavioral Analytics:** CMR applies advanced statistical and quantitative methods, combined with machine learning techniques, to extract actionable insights from both on-chain data and relevant real-world sentiment indicators.
   
 * **Concentric Economics:** CMR applies a proprietary framework called Concentric Economics, which models the layered interdependencies between global macro and microeconomic systems. Through this approach, CMR conducts high-resolution analysis of dynamic market conditions, applying advanced algorithmic and quantitative models to identify actionable opportunity targets across interconnected market execution layers.
-
+</div>
 ## Applied Research Projects
 
 **2024–Current, CipheX Capital Ecosystem**: CipheX is an open capital network that provides users with access to autonomous, noncustodial digital asset portfolio management through its proprietary execution system, Alpha CPX. Designed to operate without intermediaries, Alpha CPX empowers individuals to maintain full control over their assets while benefiting from institutional-grade market execution, real-time risk adjustment, and intelligent trade automation.
