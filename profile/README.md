@@ -11,12 +11,17 @@ Cipherion Market Research (“CMR”) is a private research and development divi
   
 * **Concentric Economics:** CMR applies a proprietary framework called Concentric Economics, which models the layered interdependencies between global macro and microeconomic systems. Through this approach, CMR conducts high-resolution analysis of dynamic market conditions, applying advanced algorithmic and quantitative models to identify actionable opportunity targets across interconnected market execution layers.
 
+## Applied Research Projects
 
-**Development:** Our development team translates research findings into practical applications, building robust and scalable infrastructure for our trading operations. Core technologies include:
+**2024–Current, CipheX Capital Ecosystem**: CipheX is an open capital network that provides users with access to autonomous, noncustodial digital asset portfolio management through its proprietary execution system, Alpha CPX. Designed to operate without intermediaries, Alpha CPX empowers individuals to maintain full control over their assets while benefiting from institutional-grade market execution, real-time risk adjustment, and intelligent trade automation.
 
-* **Abacus:** A proprietary market analytics engine processing terabytes of real-time data daily, providing the foundation for our trading strategies.
-* **Hypatia Neural Network:** A sophisticated AI-powered system that analyzes complex market patterns and enhances the predictive capabilities of Abacus, enabling faster identification and execution of profitable trades.
-* **Market Centurions:** Autonomous trading agents utilizing advanced algorithms to execute trades with speed and precision, minimizing risk and maximizing returns within volatile market conditions.
+**2022–Current, Alpha Centurion Network (Alpha CPX):**: Alpha CPX is a fully autonomous, non-custodial portfolio management platform that delivers institutional-grade performance to everyday consumers. It operates without centralized control, using advanced AI models and real-time market execution strategies to optimize asset performance, manage risk, and adapt dynamically to evolving market conditions.
+
+**2022–2024, CPX Market Centurions**: Autonomous, self-learning trading agents utilize advanced algorithms and market predictability analytics to execute trades with precision while minimizing risk in volatile digital asset markets. These agents were integrated into Alpha CPX in 2024, enhancing its ability to adapt in real time, identify optimal entry and exit points, and maintain performance consistency for users across shifting market conditions.
+
+**2020–2022, Abacus EMS**: A proprietary arbitrage execution engine and the foundational predecessor to several core features of the CPX Market Centurions. Designed to identify and capitalize on price inefficiencies across fragmented digital asset markets, Abacus EMS pioneered high-speed trade routing, latency optimization, and cross-market arbitrage logic that now informs the adaptive strategies within Alpha CPX’s autonomous execution framework.
+
+**2016–2019, Hypatia Data Intelligence**: Hypatia is a sophisticated data analytics and modeling system built to detect and interpret complex inefficient market patterns, enhancing the predictive targeting of the Abacus EMS arbitrage engine. As the predecessor to the CPX Framework, now the AI core of Alpha CPX, it established the foundation for signal extraction, anomaly detection, and forecasting in volatile markets.
 
 ## Research Approach
 
@@ -28,15 +33,6 @@ We maintain a data-driven approach to market research, processing over 30 teraby
 - On-chain analytics
 - Cross-chain correlations
 - Network effect patterns
-
-## Notable Projects
-
-Our flagship technologies include:
-
-- **Hypatia Neural Network**: Our core analytical framework processing millions of market data points
-- **Abacus**: Advanced market analysis system generating predictive trading models
-- **Market Centurions**: Autonomous trading bots executing high-frequency strategies
-- **CipheX**: A decentralized Community sharing market returns and future revenues with token holders.
 
 ## Organization
 
