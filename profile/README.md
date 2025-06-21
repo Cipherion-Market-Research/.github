@@ -6,7 +6,7 @@ Cipherion Market Research (“CMR”) is a private research and development divi
 ## Current Research Initiatives 
 <div align="justify"> 
   
-* **MEV (Maximal Extractable Value) integrated analysis and mitigation:** CMR develops strategies to identify and minimize negative externalities associated with MEV, ensuring fair and efficient market operations through the implementation of protocol-level defenses to safeguard market integrity.
+* **MEV (Maximal Extractable Value) Integrated Analysis and Mitigation:** CMR develops strategies to identify and minimize negative externalities associated with MEV, ensuring fair and efficient market operations through the implementation of protocol-level defenses to safeguard market integrity.
   
 * **Behavioral Analytics:** CMR applies advanced statistical and quantitative methods, combined with machine learning techniques, to extract actionable insights from both on-chain data and relevant real-world sentiment indicators.
   
