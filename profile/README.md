@@ -32,13 +32,13 @@ Cipherion Market Research (“CMR”) is a private research and development divi
 
 The name CipheX is derived from “Cipher,” representing encrypted intelligence, while the “X” signifies exponential capability. CPX, is short for Capital Predictive eXecution, the proprietary algorithmic framework powering all market strategies within the Alpha Centurion Network (Alpha CPX).
 
-**2024 CPX Framework.**: The CPX Framework is Alpha CPX’s proprietary AI core, enabling real-time signal analysis, predictive modeling, and autonomous trade execution. It identifies opportunities, manages risk, and adapts to market conditions, delivering institutional-grade performance while preserving noncustodial user control across traditional and digital asset markets.
+**2024 CPX Framework.** The CPX Framework is Alpha CPX’s proprietary AI core, enabling real-time signal analysis, predictive modeling, and autonomous trade execution. It identifies opportunities, manages risk, and adapts to market conditions, delivering institutional-grade performance while preserving noncustodial user control across traditional and digital asset markets.
 
-**2023 Adaptive Target Identification & Market Intelligence.**: This framework combines Concentric Economics, Behavioral Analytics, and MEV research to detect high-probability trade opportunities. It dynamically analyzes capital flows, participant behavior, and value-extractive risks to generate precise, real-time trading signals across fragmented and volatile digital asset and traditional markets.
+**2023 Adaptive Target Identification & Market Intelligence.** This framework combines Concentric Economics, Behavioral Analytics, and MEV research to detect high-probability trade opportunities. It dynamically analyzes capital flows, participant behavior, and value-extractive risks to generate precise, real-time trading signals across fragmented and volatile digital asset and traditional markets.
 
-**2021 Natural Capital & Modern Commodities.**: Explores fractal volatility opportunities arising from flawed environmental valuation and pricing models as traditional markets integrate voluntary carbon credits and ESG-linked supply chains into futures and commodities. These inefficiencies create dislocations exploitable through predictive modeling across evolving asset classes.
+**2021 Natural Capital & Modern Commodities.** Explores fractal volatility opportunities arising from flawed environmental valuation and pricing models as traditional markets integrate voluntary carbon credits and ESG-linked supply chains into futures and commodities. These inefficiencies create dislocations exploitable through predictive modeling across evolving asset classes.
 
-**2018 Concentric Economics & Emerging Hyper Volatilities.**: Concentric Economics analyzes how capital rotates between asset classes, revealing patterns of emerging hyper volatility as traditional markets respond to the growth of digital assets. This approach uncovers structural imbalances, liquidity dislocations, and behavioral shifts driving amplified volatility across interconnected financial systems.
+**2018 Concentric Economics & Emerging Hyper Volatilities.** Concentric Economics analyzes how capital rotates between asset classes, revealing patterns of emerging hyper volatility as traditional markets respond to the growth of digital assets. This approach uncovers structural imbalances, liquidity dislocations, and behavioral shifts driving amplified volatility across interconnected financial systems.
 </div>
 
 ## Organization & Mission
