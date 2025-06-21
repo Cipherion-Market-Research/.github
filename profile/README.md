@@ -3,15 +3,13 @@
 Cipherion Market Research (“CMR”) is a private research and development division of Cipherion Capital SA (“Cipherion”). CMR focuses on the development of AI-driven software solutions, specializing in autonomous market execution and digital asset management systems. Its research centers on data-driven macro and microeconomic analysis, dynamic forecasting, and integrated risk architecture, powering forward-looking opportunity mapping and strategic capital reallocation between legacy and digital financial systems.
 
 
-## Core Initiatives
+## Current Research Initiatives 
 
-Cipherion operates through a vertically integrated model, encompassing research, development, and operational execution:
-
-**Research:** Our research team, comprised of experts in capital markets management and finance, as well as machine learning and blockchain technology, continuously analyzes market data, develops predictive models, and identifies emerging trends in the DeFi landscape. Key areas of focus include:
-
-* **MEV (Maximal Extractable Value) Analysis and Mitigation:** We develop strategies to identify and minimize negative externalities associated with MEV, ensuring fair and efficient market operations.
-* **On-Chain Data Analytics:** We apply advanced statistical and quantitative methods along with machine learning to extract actionable insights from on-chain data, enabling enabling our systems to generate market volatility movements and identify positive trading opportunities.
-* **Decentralized Economic Modeling:** We conduct rigorous research on the dynamics of decentralized economies, exploring novel mechanisms for governance, token distribution, and community participation.
+* **MEV (Maximal Extractable Value) integrated analysis and mitigation:** CMR develops strategies to identify and minimize negative externalities associated with MEV, ensuring fair and efficient market operations through the implementation of protocol-level defenses to safeguard market integrity.
+  
+* **Behavioral Analytics:** CMR applies advanced statistical and quantitative methods, combined with machine learning techniques, to extract actionable insights from both on-chain data and relevant real-world sentiment indicators.
+  
+* **Concentric Economics:** CMR applies a proprietary framework called Concentric Economics, which models the layered interdependencies between global macro and microeconomic systems. Through this approach, CMR conducts high-resolution analysis of dynamic market conditions, applying advanced algorithmic and quantitative models to identify actionable opportunity targets across interconnected market execution layers.
 
 
 **Development:** Our development team translates research findings into practical applications, building robust and scalable infrastructure for our trading operations. Core technologies include:
